@@ -1,0 +1,23 @@
+{
+  "name": "angulartp",
+  "version": "1.0.0",
+  "description": "Tp Pokemon",
+  "main": "tp_pokemon.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MushSylv/angulartp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MushSylv/angulartp/issues"
+  },
+  "homepage": "https://github.com/MushSylv/angulartp#readme",
+  "devDependencies": {
+    "@types/jest": "^24.0.11",
+    "jest": "^24.5.0"
+  }
+}
